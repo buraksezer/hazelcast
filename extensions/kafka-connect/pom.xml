@@ -132,7 +132,7 @@
             <groupId>org.neo4j.driver</groupId>
             <artifactId>neo4j-java-driver</artifactId>
             <!-- Driver 5.x requires JDK 17 -->
-            <version>4.4.12</version>
+            <version>5.14.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
